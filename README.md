@@ -25,5 +25,8 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 <img width="1440" alt="Screen Shot 2022-09-09 at 8 59 03 PM" src="https://user-images.githubusercontent.com/85970879/189462934-4c8b02aa-314d-48e3-be93-d1bed5a0a084.png">
 <img width="1440" alt="Screen Shot 2022-09-09 at 8 59 28 PM" src="https://user-images.githubusercontent.com/85970879/189462937-16ffb7a1-fc40-4e8c-8041-cb54ee6ad676.png">
 putting float left to right together
-emoving div to semantic
-creen reading, to div with semantic also changed class
+removing div to semantic
+screen reading, to div with semantic also changed class
+div to semantic
+search-engine-optimization,.online-reputation-management,.social-media-marketing to each other
+search-engine-optimization img,.online-reputation-management img,.social-media-marketing img each other
